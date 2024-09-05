@@ -79,7 +79,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Ana Pino** - *Diseñadora UX/UI* 
-* **Carlos Silva** - *Back-end* 
+* **Carlos Silva Alecrim** - *Back-end* 
 * **Evelyn Riascos** - *Back-end* 
 * **Gastón Ruiz** - *Tester* 
 * **Thamairy González** - *Tester* 
